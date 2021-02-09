@@ -1,0 +1,11 @@
+commit 4e21e07a15a9e95a6c1b2ed76ade40e7d38bc12f (HEAD -> master)
+Author: makskson <max.polichenkov@gmail.com>
+Date:   Tue Feb 9 14:58:13 2021 +0300
+
+    add task1
+
+commit 51857c2135526ad6a7b4d079d886ef8d4370052b
+Author: makskson <max.polichenkov@gmail.com>
+Date:   Tue Feb 9 14:28:31 2021 +0300
+
+    add .gitignore
